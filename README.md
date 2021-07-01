@@ -1,1 +1,3 @@
-ECHO ÇÕ <ON> Ç≈Ç∑ÅB
+cplusplus_test
+
+-[ ] constexpr
